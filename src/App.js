@@ -5,6 +5,7 @@ import Home from './components/Home';
 import Registration from './components/Registration';
 import About from './components/About';
 import UserList from './components/UserList';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
